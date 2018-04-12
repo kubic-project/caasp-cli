@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/kubic-project/caasp-cli.svg?branch=master)](https://travis-ci.org/kubic-project/caasp-cli)
+test  [![Build Status](https://travis-ci.org/kubic-project/caasp-cli.svg?branch=master)](https://travis-ci.org/kubic-project/caasp-cli)
 
 # CaaS Platform CLI
 
